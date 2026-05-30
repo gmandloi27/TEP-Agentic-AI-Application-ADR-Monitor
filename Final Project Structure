@@ -1,0 +1,31 @@
+ADR-Monitor/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── .env.example
+├── .gitignore
+├── LICENSE
+├── adr_monitor.db
+│
+├── notebooks/
+│   └── agent_request_debug.ipynb
+│
+├── tests/
+│   └── test_agent.py
+│
+├── docs/
+│   └── API_Documentation.md
+│
+├── assets/
+│   ├── dashboard.png
+│   └── architecture.png
+│
+├── .github/
+│   └── workflows/
+│       └── python-app.yml
+│
+└── dist/
+    ├── index.html
+    ├── assets/
+    └── favicon.ico
