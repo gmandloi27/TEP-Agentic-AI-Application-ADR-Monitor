@@ -1,6 +1,4 @@
 
-<img width="1919" height="1100" alt="ADR-Monitor" src="https://github.com/user-attachments/assets/4f4ca95b-75e8-4900-9165-63e46f4b465e" />
-
 
 
 # TEP-Agentic-AI-Application-ADR-Monitor
